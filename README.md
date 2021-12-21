@@ -1,5 +1,5 @@
-[![CI-api](https://github.com/EpitechPromo2024/B-DEV-500-MPL-5-1-dashboard-clement.bolin/actions/workflows/ci-api.yml/badge.svg)](https://github.com/EpitechPromo2024/B-DEV-500-MPL-5-1-dashboard-clement.bolin/actions/workflows/ci-api.yml)
-[![CI-client](https://github.com/EpitechPromo2024/B-DEV-500-MPL-5-1-dashboard-clement.bolin/actions/workflows/ci-client.yml/badge.svg)](https://github.com/EpitechPromo2024/B-DEV-500-MPL-5-1-dashboard-clement.bolin/actions/workflows/ci-client.yml)
+[![CI-client](https://github.com/clementbolin/Dynamic-Epitech-Dashboard/actions/workflows/ci-client.yml/badge.svg)](https://github.com/clementbolin/Dynamic-Epitech-Dashboard/actions/workflows/ci-client.yml)
+[![CI-api](https://github.com/clementbolin/Dynamic-Epitech-Dashboard/actions/workflows/ci-api.yml/badge.svg)](https://github.com/clementbolin/Dynamic-Epitech-Dashboard/actions/workflows/ci-api.yml)
 
 <div style='
   display: flex;
